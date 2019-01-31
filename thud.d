@@ -1,0 +1,2 @@
+import fred;
+class thud {}
